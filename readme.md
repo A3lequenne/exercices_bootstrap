@@ -6,7 +6,7 @@ Few exercices to learn a bit about how Bootstrap works
 
 ## Technologies used
 - HTML5
-- CSS3 (with TailwindCSS)
+- CSS3 (with Bootstrap)
 - Liveserver Extension
 
 ## Develop
